@@ -3,6 +3,7 @@
 
 # Compiled Object files
 *.o
+*.exe
 
 # Executables
 dslib_test
