@@ -41,7 +41,7 @@ A ground-up implementation of core data structures written strictly in standard 
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/libdsc.git
+git clone https://github.com/RahulBiswas224/libdsc.git
 cd libdsc
 
 # Compile the project
