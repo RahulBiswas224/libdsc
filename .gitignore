@@ -1,0 +1,12 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.o
+
+# Executables
+dslib_test
+build/
+
+# OS generated files
+.DS_Store
